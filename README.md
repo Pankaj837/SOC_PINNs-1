@@ -32,7 +32,7 @@ Each `WeekX.md` contains:
 - Problems/assignments solved
 - Key results and figures
 
-The `solutions/` folder holds the Jupyter notebooks implementing the solved problems for that week.
+The `solutions/` folder holds the Jupyter notebooks implementing the solved problems for that week. ( Link if uploaded file doesn't work : https://drive.google.com/drive/folders/10SzPzSxJl2s6ZP1kIzczt-fP4zIfiqas?usp=sharing )
 
 ---
 
